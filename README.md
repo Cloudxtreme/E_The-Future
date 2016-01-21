@@ -1,2 +1,2 @@
-# E_The-Future
+# E_The-Future FINISHED and submitted to URCourses
 Research and present a paper or topic relating to post-silicon, post-moore advanced computing platforms such as quantum computing, biocomputing (including wet neural computing and molecular computing), exotic materials such as graphene or nanotubes and devices such as memristors, etc. Alternatively, research and present on a topic related to pre-silicon computing, such as vacuum tubes, punched-cards, non-electrical computing, water gates, the antikythera mechanism, analytical engine, etc. The primary references for this task doesn’t have to be an academic paper. 
